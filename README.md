@@ -10,6 +10,7 @@ Currently I study Computer Science. My plan is to also study Master's Degree in 
 As a high school student I won the software contest organized by ANPRI.
 
 💾 I’ve grown up with computers and their evolution, so I'm in constant updates too.
+
 🚗 I'm also a Car & Motorcycle enthusiast and home mechanic.
 
 💊 When I'm away from home, I often leave my computer processing information voluntarily for Science and Medicine Research. 
