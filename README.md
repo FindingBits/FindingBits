@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @FindingBits
 [![FindingBits's GitHub stats](https://github-readme-stats.vercel.app/api?username=findingbits)](https://github.com/findingbits/github-readme-stats)
 
 <!---
