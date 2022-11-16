@@ -1,6 +1,14 @@
-[![FindingBits's GitHub stats](https://github-readme-stats.vercel.app/api?username=findingbits)](https://github.com/findingbits/github-readme-stats)
+Coding addict, programming my way up the ladder.
+Still a newbie compared to some standards but I manage to learn the ropes and assure my best coding practices to every line that I write.
 
-<!---
-FindingBits/FindingBits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I Consider myself keen on team work, I enjoy dialoguing about the best coding practices because different opinions contribute to a healthier coding base.
+
+I am a level 4 IT technician.
+Currently I study Computer Science. My plan is to also study Master's Degree in CyberSecurity down the road, I'm open to working in the meantime in partial remote or full remote state.
+
+I’ve grown up with computers and their evolution, so I'm in constant updates too.
+I'm also a Car & Motorcycle enthusiast and home mechanic.
+
+When I'm away from home, I often leave my computer processing information voluntarily for Science and Medicine Research. 
+
+As a high school student I won the software contest organized by ANPRI.
