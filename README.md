@@ -2,7 +2,7 @@
 
 A car enthusiast, home mechanic, driven everyday by curiosity.
 
-#### Websites & apps made for institutions
+### Websites & apps made for institutions
 - [Website for TopPerfomance](https://top-performance.pt/)
 - [Website & store for JCentralinas](https://jcentralinas.com/)
 - [Website for José Ferreira Guedes](https://jfg.pt/)
