@@ -1,6 +1,6 @@
 👋 Hello there! I'm João.
 
-A car enthusiast, home mechanic, driven everyday by curiosity.
+Driven everyday by curiosity.
 
 ### Websites & apps made for institutions
 - [Website for TopPerfomance](https://top-performance.pt/)
