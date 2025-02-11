@@ -7,6 +7,7 @@ Driven everyday by curiosity.
 - [Website & store for JCentralinas](https://jcentralinas.com/)
 - [Website for José Ferreira Guedes](https://jfg.pt/)
 - [Website & CMS Program (backend) for AdvTrailPortugal](https://advtrailportugal.pt/)
+- [Website & CMS Program (backend) for DimensionalForge (defunct company)](https://dimensionalforge.pt/)
 - [(in-progress) Website & Store for Night Shift Garage](http://motopartspedro.42web.io/)
 
 ##### Interactive app for António Vilela Areias
