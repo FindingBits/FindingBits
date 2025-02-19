@@ -7,7 +7,7 @@ Driven everyday by curiosity.
 - [Website & store for JCentralinas](https://jcentralinas.com/)
 - [Website for José Ferreira Guedes](https://jfg.pt/)
 - [Website & CMS Program (backend) for AdvTrailPortugal](https://advtrailportugal.pt/)
-- [Game Nine Mens Morris - Tecnologias Web Project](https://ricardofig016.github.io/nine-mens-morris/)
+- [Game - Nine Mens Morris - Web Technologies Project](https://ricardofig016.github.io/nine-mens-morris/)
 - [(in-progress) Website & Store for Night Shift Garage](http://motopartspedro.42web.io/)
 
 ### Interactive app for António Vilela Areias
