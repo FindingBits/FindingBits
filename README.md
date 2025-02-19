@@ -17,5 +17,5 @@ Driven everyday by curiosity.
 
 ### Internal program for automotive mechanic company
 ##### Hosted on Docker (managed with Portainer) with PHP and MySQL
-##### C# Winforms used for campatibility with an Embedded Solution, without manual browser navigation.
+##### C# Winforms used for campatibility with an Embedded solution without manual browser navigation.
 ![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/3.png)
