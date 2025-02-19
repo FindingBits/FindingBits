@@ -16,4 +16,5 @@ Driven everyday by curiosity.
 ![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/2.png)
 
 ##### Internal program for automotive mechanic company
+Hosted on Docker (managed with Portainer) with PHP and MySQL
 ![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/3.png)
