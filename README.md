@@ -1,22 +1,56 @@
-👋 Hello there! I'm João.
+# 👋 Hello there! I'm João.
 
-Driven everyday by curiosity.
+Driven everyday by curiosity
 
-## Websites & apps made for institutions
+
+---
+
+### 🔗 More about me
+
+<p>
+  <a href="https://www.cienciavitae.pt/XXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Ciência%20Vitae-006400?style=for-the-badge" alt="Ciencia Vitae"/>
+  </a>
+  <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge" alt="ORCID ID"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 💻 Websites made for institutions
+
 - [Website for TopPerfomance](https://top-performance.pt/)
-- [Website & store for JCentralinas](https://jcentralinas.com/)
 - [Website for José Ferreira Guedes](https://jfg.pt/)
-- [Website & CMS Program (backend) for AdvTrailPortugal](https://advtrailportugal.pt/)
-- [Game - Nine Mens Morris - Web Technologies Project](https://ricardofig016.github.io/nine-mens-morris/)
-- [(in-progress) Website & Store for Night Shift Garage](http://motopartspedro.42web.io/)
+- [Website & CMS Backend for AdvTrailPortugal](https://advtrailportugal.pt/)
+- [Website & Store for JCentralinas](https://jcentralinas.com/)
+- [Website & Store for Night Shift Garage](https://nsgarage.pt/)
 
-### Interactive app for António Vilela Areias
-![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/1.png)
 
-### Interactive app for José Ferreira Guedes's stock management
-![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/2.png)
+---
 
-### Internal program for automotive mechanic company
-##### Hosted on Docker (managed with Portainer) with PHP and MySQL
-##### C# Winforms used for campatibility with an Embedded solution without manual browser navigation.
-![alt text](https://github.com/FindingBits/FindingBits/blob/main/img/3.png)
+## 🚀 Projects
+
+Here are a few projects I'm working on or have recently completed:
+
+### 📌 Project One
+**Description:** A short summary of what this project does.  
+**Tech Stack:** Python, Flask, SQLite  
+[👉 Repository](#)
+
+---
+
+### 📌 Project Two
+**Description:** Another cool project description goes here.  
+**Tech Stack:** React, Node.js, MongoDB  
+[👉 Repository](#)
+
+---
+
+### 📌 Project Three
+**Description:** An experimental or in-progress idea.  
+**Tech Stack:** C++, OpenCV  
+[👉 Repository](#)
