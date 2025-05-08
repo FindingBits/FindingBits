@@ -8,13 +8,13 @@ Driven everyday by curiosity.
 ### 🔗 More about me
 
 <p>
-  <a href="https://www.cienciavitae.pt/XXXX" target="_blank">
+  <a href="https://www.cienciavitae.pt//A21C-3AAC-B8B2" target="_blank">
     <img src="https://img.shields.io/badge/Ciência%20Vitae-006400?style=for-the-badge" alt="Ciencia Vitae"/>
   </a>
-  <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX" target="_blank">
+  <a href="https://orcid.org/0009-0009-1253-1849" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge" alt="ORCID ID"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-guedes-76623218a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
