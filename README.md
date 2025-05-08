@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm João.
 
-Driven everyday by curiosity
+Driven everyday by curiosity.
 
 
 ---
@@ -32,25 +32,4 @@ Driven everyday by curiosity
 
 ---
 
-## 🚀 Projects
-
-Here are a few projects I'm working on or have recently completed:
-
-### 📌 Project One
-**Description:** A short summary of what this project does.  
-**Tech Stack:** Python, Flask, SQLite  
-[👉 Repository](#)
-
----
-
-### 📌 Project Two
-**Description:** Another cool project description goes here.  
-**Tech Stack:** React, Node.js, MongoDB  
-[👉 Repository](#)
-
----
-
-### 📌 Project Three
-**Description:** An experimental or in-progress idea.  
-**Tech Stack:** C++, OpenCV  
-[👉 Repository](#)
+## 📍 Pinned Projects
